@@ -1,1 +1,2 @@
-# GuilhermeCardoso
+# Guilherme Cardoso
+  Atualmente sou estudante de graduação de Engenharia da Computação, entusiasta da ciência e tecnologia. Em meus repositórios poderá ver os projetos que desenvolvo/desenvolvi na área acadêmica principalmente, como projetos de interface gráfica utilizando C Sharp, bem como projetos implementando metaheurísticas, sendo uma delas o Algoritmo Genético (AG), entre outros tipos de projetos.
